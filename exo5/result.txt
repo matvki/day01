@@ -1,0 +1,5 @@
+result.txt
+Mar 19 oct 2021 10:57:07 CEST
+matvki   console  Oct 17 21:31 
+matvki   ttys000  Oct 19 09:17 
+matvki   ttys001  Oct 19 09:57 
